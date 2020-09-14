@@ -1,0 +1,31 @@
+body {
+
+}
+
+
+
+.container {
+  display: flex;   
+
+}
+
+.mazas {
+	width:150px;
+ 	height: 150px;
+ 	background-color: #b3ffb3;
+ 	margin: 15px;
+}
+
+.two {
+	display: flex;
+	flex-flow: wrap;
+
+}
+
+.yes {
+	
+	width:150px;
+ 	height: 150px;
+ 	background-color: #cc6600;
+ 	margin: 15px;
+}
